@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=C128F7&width=550&lines=Hello%2C;I+am+Thiyagarajah+Suthagar%2C;Welcome+to+my+Portfolio+!!!">
 </div>
 <hr>
-<div align="center">Hi, I'm Thiyagarajah Suthagar, a passionate student currently pursuing my degree in Quantity Surveying and Information Systems.</div>  
+<div align="center">Hi, I'm Thiyagarajah Suthagar, an enthusiastic student pursuing a B.Sc. in Quantity Surveying at the University of Moratuwa and Bachlor in IT in UCSC. I’m passionate about blending technology and construction, with skills in software development, data analysis, and cost management. Eager to contribute to innovative projects and grow in both fields. </div>  
 <br> <hr> <br>
   
 
