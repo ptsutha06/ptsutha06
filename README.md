@@ -126,7 +126,7 @@
 <img src=https://img.shields.io/badge/leetcode-%23000000.svg?&style=for-the-badge&logo=leetcode&logoColor=white alt=leetcode style="margin-bottom: 5px;" />
 </a> 
 <a href="#" target="_blank">
-<img src=https://img.shields.io/badge/w3school-%23000000.svg?&style=for-the-badge&logo=w3school&logoColor=white alt=w3school style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/w3schools-%23000000.svg?&style=for-the-badge&logo=w3schools&logoColor=white alt=w3schools style="margin-bottom: 5px;" />
 </a>  
 </div>  
 
