@@ -63,7 +63,7 @@
 
 ### Programming Languages
 ![python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white)
 
 ### Front-End Development
 <!-- ![next](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF) -->
