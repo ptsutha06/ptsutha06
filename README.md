@@ -122,9 +122,14 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
+<br/>
+<a href="#" target="_blank">
+<img src=https://img.shields.io/badge/leetcode-%23000000.svg?&style=for-the-badge&logo=leetcode&logoColor=white alt=leetcode style="margin-bottom: 5px;" />
+</a> 
+<a href="#" target="_blank">
+<img src=https://img.shields.io/badge/w3school-%23000000.svg?&style=for-the-badge&logo=w3school&logoColor=white alt=w3school style="margin-bottom: 5px;" />
+</a>  
 
-<br/>  
 
 
   
