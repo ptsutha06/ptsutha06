@@ -1,4 +1,5 @@
 <hr>
+<br>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=C128F7&width=550&lines=Hello%2C;I+am+Thiyagarajah+Suthagar%2C;Welcome+to+my+Portfolio+!!!">
 </div>
