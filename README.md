@@ -6,20 +6,10 @@
 <hr>
 <div align="center">Hi, I'm Thiyagarajah Suthagar, an enthusiastic student pursuing a B.Sc. in Quantity Surveying at the University of Moratuwa and Bachlor in IT in UCSC. I’m passionate about blending technology and construction, with skills in software development, data analysis, and cost management. Eager to contribute to innovative projects and grow in both fields. </div>  
 <br> <hr> <br>
-  
-
- 🏗️👷🏻‍♂️ I'm enthusiastic about Quantity Surveying in Construction Industry and Deveoper in 🌐 IT industry.
-  
-
-💡 I’m currently learning and have a keen interest in Machine Learning 🤖 and mobile app development. 📱
-  
-
- 💣 Passionate about contributing to innovative projects and expanding my industry skills. 
-  
-
+  🏗️👷🏻‍♂️ I'm enthusiastic about Quantity Surveying in Construction Industry and Deveoper in 🌐 IT industry.
+  💡 I’m currently learning and have a keen interest in Machine Learning 🤖 and mobile app development. 📱
+  💣 Passionate about contributing to innovative projects and expanding my industry skills. 
   😀 Feel free to check out my repositories and connect with me!  
-  
-
 <br/>  
 
 # My Skill Set
@@ -29,7 +19,6 @@
 
 ## Quantity Surveying
 ### Measurement and Quantification
-
 ![SLS_573](https://img.shields.io/badge/SLS_573-3776AB?style=for-the-badge&logo=SLS_573&logoColor=white)
 ![NRM](https://img.shields.io/badge/NRM-3776AB?style=for-the-badge&logo=NRM&logoColor=white)
 ![CESMM4](https://img.shields.io/badge/CESMM4-3776AB?style=for-the-badge&logo=CESMM4&logoColor=white)
@@ -40,12 +29,13 @@
 ![PlanSwift](https://img.shields.io/badge/PlanSwift-00599C?style=for-the-badge&logo=PlanSwift&logoColor=white)
 ![GlodanCubicost](https://img.shields.io/badge/GlodanCubicost-00599C?style=for-the-badge&logo=GlodanCubicost&logoColor=white)
 ![CostX](https://img.shields.io/badge/CostX-00599C?style=for-the-badge&logo=CostX&logoColor=white)
-![BlueBeam](https://img.shields.io/badge/BlueBeam-00599C?style=for-the-badge&logo=BlueBeam&logoColor=white)
-
+![BlueBeam](https://img.shields.io/badge/BlueBeam-Revu-00599C?style=for-the-badge&logo=BlueBeam-Revu&logoColor=white)
+![Buildern](https://img.shields.io/badge/Buildern-00599C?style=for-the-badge&logo=Buildern&logoColor=white)
 
 ### Project Management 
 ![MS Project](https://img.shields.io/badge/MS_Project-323330?style=for-the-badge&logo=MS_Project&logoColor=F7DF1E)
 ![Libre Office](https://img.shields.io/badge/Libre_Office-323330?style=for-the-badge&logo=Libre_Office&logoColor=F7DF1E)
+![Primavera P6](https://img.shields.io/badge/PrimaveraP6-323330?style=for-the-badge&logo=PrimaveraP6&logoColor=F7DF1E)
 
 ### Contract Procedure
 ![SBD](https://img.shields.io/badge/SBD-E34F26?style=for-the-badge&logo=SBD&logoColor=white)
@@ -88,22 +78,22 @@
 
 ### Full Stack
 ![MERN](https://img.shields.io/badge/MERN-777BB4?style=for-the-badge&logo=mern&logoColor=white)
-
+<!--
 ### AI/ML
 ![tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![opencv](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white)
-
+-->
 ### Design Tools
 ![canva](https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white)
 
 
 ### Analytical Tools
-![excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![powerbi](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Powerbi](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)
 
 <br/>  
 
